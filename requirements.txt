@@ -1,0 +1,9 @@
+pelican
+pelican[Markdown]
+pelican-render-math
+pelican-sitemap
+disqus-python
+beautifulsoup4
+Markdown
+ghp-import
+pelican-pdf
